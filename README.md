@@ -1,4 +1,4 @@
-# Microsoft Template Website
+# Mcirosoft Template Website
 Un modèle de site web construit avec ReactJS, SCSS, Laravel et PostgreSQL.
 
 ## Fonctionnalités
