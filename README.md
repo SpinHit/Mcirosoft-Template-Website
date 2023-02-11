@@ -12,7 +12,7 @@ Un modèle de site web construit en utilisant ReactJS, SCSS, Laravel et PostgreS
 - Page "Dashboard" Possibilité de changer le mot de passe, email , Pseudo
 
 # Présentation
-Vous pouvez également consulter une [vidéo de démonstration](https://www.youtube.com/watch?v=svE0Jbza9gs&feature=youtu.be) pour voir comment le site fonctionne quand le front et le back et la base de données sont lancer.
+Vous pouvez également consulter une vidéo de demo [https://www.youtube.com/watch?v=svE0Jbza9gs](https://www.youtube.com/watch?v=svE0Jbza9gs&feature=youtu.be) pour voir comment le site fonctionne quand le front et le back et la base de données sont lancer.
 
 Lien du Front héberger sur github:
 https://spinhit.github.io/React_Laravel_Pgsql/
