@@ -1,6 +1,6 @@
-#Microsoft Template Website
+# Microsoft Template Website
 Un modèle de site web construit en utilisant ReactJS, SCSS, Laravel et PostgreSQL.
-##Fonctionnalités
+## Fonctionnalités
 - Page "Principale" Réutilisation de plusieurs composants
 - Page "À propos" 
 - Page "Nos services" Génération de pages permettant la présentation de services
