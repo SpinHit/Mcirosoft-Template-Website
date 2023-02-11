@@ -13,7 +13,7 @@ Un modèle de site web construit avec ReactJS, SCSS, Laravel et PostgreSQL.
 - Page "Dashboard" qui permet aux utilisateurs de changer leur nom d'utilisateur, e-mail et mot de passe
 
 ## Présentation
-Pour voir comment le site fonctionne avec le front et le back-end et la base de données en cours d'exécution, vous pouvez consulter une vidéo de démonstration disponible sur [YouTube](https://www.youtube.com/watch?v=svE0Jbza9gs).
+Pour voir comment le site fonctionne avec le front et le back-end et la base de données en cours d'exécution, vous pouvez consulter une vidéo de démonstration disponible sur Youtube : [https://www.youtube.com/watch?v=svE0Jbza9gs](https://www.youtube.com/watch?v=svE0Jbza9gs).
 
 Le front-end du site est hébergé sur Github à cette adresse : [https://spinhit.github.io/React_Laravel_Pgsql/](https://spinhit.github.io/React_Laravel_Pgsql/).
 
